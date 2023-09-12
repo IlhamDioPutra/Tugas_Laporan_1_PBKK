@@ -1,0 +1,44 @@
+OOP (Object-Oriented Programming) adalah salah satu paradigma pemrograman yang berfokus pada pengorganisasian kode ke dalam objek-objek yang merepresentasikan entitas nyata dalam masalah yang sedang dipecahkan. Berikut adalah beberapa konsep dasar OOP dan perbandingannya dengan paradigma Procedural:
+
+
+OOP (Object-Oriented Programming):
+
+Objek: Program dibangun dengan menggunakan objek-objek yang memiliki atribut (data) dan metode (fungsi). Objek adalah instansi konkret dari suatu class.
+
+Class: Class adalah cetak biru yang mendefinisikan struktur dan perilaku objek. Ini berisi atribut dan metode yang digunakan oleh objek.
+
+Encapsulation: Prinsip encapsulation mengharuskan atribut dan metode yang beroperasi pada atribut untuk dikemas bersama dalam satu unit (class). Ini membantu dalam mengontrol akses ke data dan melindungi data dari perubahan yang tidak diinginkan.
+
+Inheritance: Inheritance memungkinkan class baru (subclass) untuk mewarisi sifat-sifat (atribut dan metode) dari class yang sudah ada (superclass). Ini memungkinkan untuk membuat hierarki class dan menghindari duplikasi kode.
+
+Polymorphism: Polymorphism adalah kemampuan objek untuk mengambil bentuk yang berbeda. Ini berarti objek dari class yang berbeda dapat digunakan dengan cara yang serupa.
+
+
+Perbandingan antara OOP dan Procedural:
+
+OOP fokus pada konsep objek dan hubungan antar mereka, sedangkan Procedural fokus pada serangkaian prosedur atau fungsi.
+
+OOP menggunakan konsep class dan inheritance, yang memungkinkan untuk membuat struktur yang lebih hierarkis dan modular. Ini mengurangi duplikasi kode.
+
+OOP mendukung encapsulation, yang membantu dalam mengendalikan akses data dan menjaga data tetap aman.
+
+OOP mendukung polymorphism, yang memungkinkan penggunaan yang lebih fleksibel dari kode yang sama untuk berbagai tipe data.
+
+
+Kegunaan OOP dibanding Procedural:
+
+Modularitas: OOP memungkinkan pemisahan kode ke dalam objek-objek yang lebih terorganisir dan dapat digunakan kembali. Ini membuat kode lebih mudah dipelihara dan dimodifikasi.
+
+Keselamatan Data: OOP menggunakan encapsulation untuk melindungi data dari akses yang tidak sah. Data hanya dapat diakses melalui metode yang sesuai.
+
+Pengurangan Duplikasi: Dengan inheritance, OOP memungkinkan penggunaan kembali kode yang sudah ada. Ini mengurangi duplikasi kode.
+
+Pengembangan Tim: OOP memfasilitasi pengembangan berbasis tim dengan membagi kode ke dalam komponen-komponen yang dapat dikelola oleh tim yang berbeda.
+
+Pemrograman yang Lebih Intuitif: OOP lebih cocok untuk pemodelan masalah dunia nyata. Ini membuat pemrograman lebih intuitif karena Anda bekerja dengan objek-objek yang merepresentasikan entitas dalam masalah yang sedang dipecahkan.
+
+
+
+
+
+
